@@ -49,7 +49,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## GitHub repository
-* The URL of the functional, deployed application.
+* https://github.com/carvasquez206/ThomasTheBookSearchEngine
 
 ## Heroku
 * The URL of the functional, deployed application.
